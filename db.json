@@ -1,0 +1,41 @@
+{
+  "currencies": [
+    {
+      "id": 1,
+      "type": "THB",
+      "rate": 0.028541244
+    },
+    {
+      "id": 2,
+      "type": "USD",
+      "rate": 1
+    },
+    {
+      "id": 3,
+      "type": "CNY",
+      "rate": 0.14364831
+    },
+    {
+      "id": 4,
+      "type": "KRW",
+      "rate": 0.00076010899
+    },
+    {
+      "id": 5,
+      "type": "TWD",
+      "rate": 0.032538982
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "12345a!",
+      "role": "admin"
+    },
+    {
+      "username": "simpleUser1",
+      "password": "98765b@",
+      "role": "guest"
+    }
+  ]
+}
